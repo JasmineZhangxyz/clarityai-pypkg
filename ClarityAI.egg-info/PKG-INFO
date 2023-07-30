@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: ClarityAI
+Version: 1.0.0
+Summary: ClarityAI is a Python package designed to empower machine learning practitioners with a wide range of interpretability methods to enhance the transparency and explainability of their ML models.
+Home-page: https://github.com/JasmineZhangxyz/clarityai-pypkg
+Author: ['Xiyue Zhang', 'Anna Teresa Lai']
+Author-email: uoft.clarityai@gmail.com
+Project-URL: Bug Reports, https://github.com/JasmineZhangxyz/clarityai-pypkg/issues
+Project-URL: Source, https://github.com/JasmineZhangxyz/clarityai-pypkg
+Keywords: python package,machine learning,cnn,interpretability,xai,attention maps,saliency maps
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE
