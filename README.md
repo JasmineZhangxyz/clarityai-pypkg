@@ -13,7 +13,11 @@ Similarly, here is what the saliency map for another MRI scan could look like:
 ![Saliency Map for MRI Scan](https://github.com/JasmineZhangxyz/clarityai-pypkg/blob/main/examples/saliency_map_ex_img.png)
 
 ## Installation + Usage
-To install and use ClarityAI, please refer to our [wiki](https://github.com/JasmineZhangxyz/clarityai-pypkg/wiki) for instructions.
+You can install ClarityAI using pip:
+```
+pip install ClarityAI==1.0.0
+```
+For more information, please refer to our [wiki](https://github.com/JasmineZhangxyz/clarityai-pypkg/wiki) for detailed instructions.
 
 ## Features
 * Documentation for attention map generation can be found [here](https://github.com/JasmineZhangxyz/clarityai-pypkg/wiki/Attention-Maps)
