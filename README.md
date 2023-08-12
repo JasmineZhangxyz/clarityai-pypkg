@@ -1,23 +1,14 @@
 # ClarityAI
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-ClarityAI is a comprehensive Python package designed to empower machine learning practitioners with a wide range of interpretability methods to enhance the transparency and explainability of their ML models.
+ClarityAI is a Python package designed to empower machine learning practitioners with a range of interpretability methods to enhance the transparency and explainability of their CNN models. Currently, ClarityAI can calculate attention and saliency maps.
 
-## Installation
-You can install ClarityAI using pip:
-```
-pip install clarityai
-```
+## Installation + Usage
+To install and use ClarityAI, please refer to our [wiki](https://github.com/JasmineZhangxyz/clarityai-pypkg/wiki) for instructions.
 
-## Usage
-Once installed, you can import ClarityAI and start using its features:
-
-```python
-import clarityai
-```
-
-## Key Features
-To be completed.
+## Features
+* Documentation for attention map generation can be found [here](https://github.com/JasmineZhangxyz/clarityai-pypkg/wiki/Attention-Maps)
+* Documentation for saliency map generation can be found [here](https://github.com/JasmineZhangxyz/clarityai-pypkg/wiki/Saliency-Maps)
 
 ## Limitations
 ClarityAI is designed to help users quickly integrate interpretability methods into their personal projects. However, ClarityAI is just a tool meant to help users - not replace users' own judgments on interpretability and ethical use cases of their ML models.
